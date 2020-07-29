@@ -1,3 +1,3 @@
-I am Isha, an aspiring software developer ✨✨.
+I am Isha, an aspiring full-stack developer ✨✨.
 I work with HTML🔭,  CSS🌱, and JavaScript 👯 
 
